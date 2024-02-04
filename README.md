@@ -1,4 +1,5 @@
-# Graphics-in-C
+# Computer-Graphics-and-Multimedia-Applications
+
 <h2>Topics</h2>
 <ol>
         <li>
